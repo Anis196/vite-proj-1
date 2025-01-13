@@ -62,3 +62,13 @@ If you'd like to run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/anis196/vite-proj-1.git
+
+2. **Folder Structure**:
+vite-proj-1/
+├── public/           # Static assets 📸
+├── src/              # Source files (components, pages, etc.) 🔧
+├── dist/             # Generated production build 🚀
+├── vite.config.js    # Vite configuration file ⚙️
+├── package.json      # Project dependencies and scripts 📜
+└── README.md         # Project documentation 📖
+
