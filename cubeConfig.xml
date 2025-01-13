@@ -1,0 +1,10 @@
+<cubeConfig>
+  <size>
+    <width>1</width>
+    <height>1</height>
+    <depth>1</depth>
+  </size>
+  <color>#ff5733</color>
+  <rotation>0.01</rotation>
+  <autoRotate>true</autoRotate>
+</cubeConfig>
