@@ -2,6 +2,8 @@
 
 Welcome to **Vite Project 1**! This project demonstrates the usage of modern web technologies such as **WebGL**, **Canvas API**, **Three.js**, **XML**, and more to create interactive 3D graphics and experiences in the browser. 🚀
 
+### View [Link](https://github.com/Anis196/vite-proj-1/blob/main/README.md) to read my Learnings through this assignment.
+
 ## Live Demo 🌐
 
 You can view the live version of this project hosted on GitHub Pages here:
